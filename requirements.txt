@@ -1,0 +1,4 @@
+crewai 
+langchain-community
+tavily-python
+langchain-google-genai
